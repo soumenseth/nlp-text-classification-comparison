@@ -1,2 +1,2 @@
 # nlp-text-classification-comparison
-Comparing how different text classification models perform on a certain data-set.
+Comparison between some simple text classification models. I have used the BBC articles data from Kaggle(https://www.kaggle.com/yufengdev/bbc-fulltext-and-category/).
